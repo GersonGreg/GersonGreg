@@ -1,46 +1,97 @@
-<p align = center ><img src="https://imgur.com/a/4EVFDJ3"> </p>
+# Angel Jaime
 
-<div>
+<h2 align="center">About me</h2>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+```golang package main import ( "fmt" ) type Bio map[string]string func main() {
+for k, v := range GetBio() { fmt.Printf("%+v: %+v\n", k, v) } } func GetBio()
+Bio { return Bio{ "- ⚡ Quick bio:": "A kind of
+metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado
+hybrid", "- 🔭 I’m currently working on": "Tredicom as a Senior Software
+Developer --- UAdeC as a Part Time Teacher", "- 🌱 I’m currently learning":
+"Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening
+my Front End Skills for the MERN stack (Personal goal)", "- 👯 I’m looking to
+collaborate on": "Python, Golang and Docker related projects", "- 🤔 I’m looking
+for help with": "Anything related to what I am currently learning 😅", "- 💬 Ask
+me about": "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev
+and SEO", "- 📫 How to reach me:":
+"https://github.com/AnhellO#you-can-reach-me-at-alien", } } ```
 
-<h2> / about me /</h2>
-  
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
-  
-<h2> / current skills / </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  
-- <h4> frameworks & libraries </h4>
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  
-  </br></br>
-  
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
-  </div>
+<h2 align="center">You can reach me at :alien:</h2>
 
-------
-Credit: [zillastar](https://github.com/zillastar)
+<p align="center">
+  <a href="https://dev.to/anhello">
+    <img
+      src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
+      alt="Angel Santiago Jaime Zavala's DEV Profile"
+      height="30"
+      width="30"
+    />
+  </a>
 
-Last Edited on: 12/11/2022
+  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+    <img
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+      alt="Angel Santiago Jaime Zavala's LinkedIn Profile"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a
+    href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"
+      alt="Angel Santiago Jaime Zavala's Stack Overflow Profile"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
+    <img
+      src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg"
+      alt="Angel Santiago Jaime Zavala's Stack Exchange Profile"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a href="https://stackshare.io/anhello">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/stackshare.svg"
+      alt="Angel Santiago Jaime Zavala's StackShare Profile"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a href="https://gitlab.com/AnhellO">
+    <img
+      src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
+      alt="Angel Santiago Jaime Zavala's GitLab Profile"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a href="https://medium.com/@ajzavala">
+    <img
+      src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"
+      alt="Angel Santiago Jaime Zavala's Medium Profile"
+      height="30"
+      width="30"
+    />
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
+    <img
+      src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
+      alt="Angel Santiago Jaime Zavala's YouTube Channel"
+      height="30"
+      width="30"
+    />
+  </a>
+</p>
+
+--- ⭐️ From [@GersonGreg](https://github.com/GersonGreg)

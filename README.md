@@ -1,5 +1,5 @@
 # Gerson Greg
-
+<p align = center ><img width="" src="https://i.pinimg.com/564x/a1/c0/cd/a1c0cd3d90bcd37b9f7ae4f918cf4f7c.jpg"> </p>
 
 <div>
 
@@ -47,7 +47,7 @@
 <a href="">Image by GersonGreg</a>
   </div>
   </div>
-<p align = center ><img width="" src="https://i.pinimg.com/564x/a1/c0/cd/a1c0cd3d90bcd37b9f7ae4f918cf4f7c.jpg"> </p>
+
 ------
 Credit: [GersonGreg](https://github.com/GersonGreg)
 

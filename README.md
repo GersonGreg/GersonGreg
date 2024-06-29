@@ -44,7 +44,7 @@
   </a>  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by GersonGreg</a>
+<a href="">Image by GersonGreg</a>
   </div>
   </div>
 

@@ -3,7 +3,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/5e/b3/85/5eb3857a870e1443a598e1fe3fe054e8.jpg"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/42/81/71/42817181e3608492b0fd395cee82a209.jpg"/>
 
 <h2> / about me /</h2>
   

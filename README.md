@@ -6,10 +6,10 @@
 <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/42/81/71/42817181e3608492b0fd395cee82a209.jpg"/>
 
 <h2>/ Acerca de mí /</h2>
-  🎓 INFORMÁTICA⭐ Actualmente trabajando en Desarrollo & Diseño web
-  -💀 Trabajando principalmente en repositorios privados
-  -👾 Un estudiante que se las arregla para hacer las cosas bien
-  -💻 Especialización en User Experience Designer-UX/UI
+  🎓 INFORMÁTICA⭐ Actualmente trabajando en Desarrollo & Diseño web <br>
+  -💀 Trabajando principalmente en repositorios privados <br>
+  -👾 Un estudiante que se las arregla para hacer las cosas bien <br>
+  -💻 Especialización en User Experience Designer-UX/UI <br>
   
 <h2>/ Habilidades actuales /</h2>
   
@@ -52,4 +52,5 @@
 Credit: [GersonGreg](https://github.com/GersonGreg)
 
 Last Edited on: 16/07/2022
+
 

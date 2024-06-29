@@ -1,4 +1,4 @@
-# Angel Jaime
+# Gerson Greg
 
 <h2 align="center">About me</h2>
 
@@ -68,4 +68,4 @@ func GetBio() Bio {
 
 ---
 
-⭐️ From [@AnhellO](https://github.com/AnhellO)
+⭐️ From [@GersonGreg](https://github.com/GersonGreg)

@@ -1,5 +1,5 @@
 # Gerson Greg
-<p align = center ><img src="https://i.imgur.com/aNBi8Jf.png"> </p>
+<p align = center ><img src="https://i.pinimg.com/564x/a1/c0/cd/a1c0cd3d90bcd37b9f7ae4f918cf4f7c.jpg"> </p>
 
 <div>
 

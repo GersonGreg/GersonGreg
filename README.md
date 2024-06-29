@@ -8,9 +8,9 @@
 <h2>/ Acerca de mí /</h2>
   🎓 INFORMÁTICA <br>
   -⭐ Actualmente trabajando en Desarrollo & Diseño web <br>
+  -💻 Especialización en User Experience Designer-UX/UI <br>
   -💀 Trabajando principalmente en repositorios privados <br>
   -👾 Un estudiante que se las arregla para hacer las cosas bien <br>
-  -💻 Especialización en User Experience Designer-UX/UI <br>
   
 <h2>/ Habilidades actuales /</h2>
   

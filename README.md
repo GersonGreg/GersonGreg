@@ -1,9 +1,9 @@
 # Gerson Greg
-<p align = center ><img src="https://imgur.com/a/4EVFDJ3"> </p>
+<p align = center ><img src="https://i.imgur.com/aNBi8Jf.png"> </p>
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/c4/a4/f3/c4a4f36c71a897585006f65b01822d3b.jpg"/>
 
 <h2> / about me /</h2>
   
@@ -20,7 +20,7 @@
   
   - <h5> currently learning </h5>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="">
+    <img src="	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="">
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
     <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
   
@@ -52,3 +52,4 @@
 Credit: [GersonGreg](https://github.com/GersonGreg)
 
 Last Edited on: 16/07/2022
+

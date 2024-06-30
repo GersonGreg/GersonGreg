@@ -1,5 +1,5 @@
 # Gerson Greg
-<p align = left ><img width="" src="https://i.pinimg.com/564x/a1/c0/cd/a1c0cd3d90bcd37b9f7ae4f918cf4f7c.jpg"> </p>
+<p align = "center" ><img width="" src="https://i.pinimg.com/564x/a1/c0/cd/a1c0cd3d90bcd37b9f7ae4f918cf4f7c.jpg"> </p>
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/42/81/71/42817181e3608492b0fd395cee82a209.jpg"/>

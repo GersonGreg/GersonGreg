@@ -1,16 +1,15 @@
 # Gerson Greg
-<p align = center ><img width="300" src="https://i.pinimg.com/564x/a1/c0/cd/a1c0cd3d90bcd37b9f7ae4f918cf4f7c.jpg"> </p>
-
+<p align = left ><img width="" src="https://i.pinimg.com/564x/a1/c0/cd/a1c0cd3d90bcd37b9f7ae4f918cf4f7c.jpg"> </p>
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/42/81/71/42817181e3608492b0fd395cee82a209.jpg"/>
 
 <h2>/ Acerca de mí /</h2>
   🎓 INFORMÁTICA <br>
-  -⭐ Actualmente trabajando en Desarrollo & Diseño Web <br>
-  -💻 Especialización en User Experience Designer-UX/UI <br>
+  -⭐ Actualmente trabajando en <strong>Desarrollo & Diseño Web </strong><br>
+  -💻 Especialización en <strong>User Experience Designer-UX/UI</strong><br>
   -💀 Trabajando principalmente en repositorios privados <br>
-  -👾 Un estudiante que se las arregla para hacer las cosas bien <br>
+  -👾 Un <strong>estudiante</strong> que se las arregla para hacer las cosas bien <br>
   
 <h2>/ Habilidades actuales /</h2>
   
